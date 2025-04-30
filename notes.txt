@@ -1,0 +1,1 @@
+dar commit até aqui, pra fazer a parte do postgres com docker e prisma de orm.
